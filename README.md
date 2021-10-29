@@ -27,7 +27,7 @@ Now that everything is installed, run one of the following commands **from withi
 Run these steps *after* the `setup:static-content:deploy` step.
 ```
 cd app/code/ControlAltDelete/FullAhead && \
-npm ci # (Or yarn install --frozen-lockfile) && \
+npm ci && \ # (Or yarn install --frozen-lockfile)
 npm run production
 ```
 
