@@ -49,6 +49,10 @@ Yes!
 
 It is not tested on production. But it only adds CSS, it doesn't remove or alter existing code, so it's relatively safe to try this out.
 
+### Does this work with Snowdogs frontools?
+
+This works standalone. It is untested but I assume it does.
+
 ## Know limitations
 
 - Does not work with content that is generated in the backend (CMS blocks/pages, products, etc.).
