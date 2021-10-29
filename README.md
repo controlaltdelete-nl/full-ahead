@@ -14,7 +14,7 @@ After copying the code, go into the folder and run `npm install` or `yarn instal
 
 ## Compiling the CSS
 
-Now that everything is installed, run one of the following commands:
+Now that everything is installed, run one of the following commands **from within the `app/code/ControlAltDelete/FullAhead` folder**:
 
 - `npm run dev` (Compile for development)
 - `npm run watch` (Compile for development and watch for changes, fastest way to develop)
